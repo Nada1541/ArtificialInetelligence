@@ -4,8 +4,10 @@
 This project focuses on implementing and analyzing various AI search algorithms and reinforcement learning techniques to solve a grid-based pathfinding problem. The problem involves navigating a robot from a start point to a goal point on a grid while avoiding obstacles.
 
 The project is divided into two phases:
-- **Phase 1**
-- **Phase 2**
+- **Phase 1**: [AI project report.pdf](https://github.com/user-attachments/files/18336871/AI.project.report.pdf)
+
+- **Phase 2**: [Ai Project.pdf](https://github.com/user-attachments/files/18336874/Ai.Project.pdf)
+
 
 ---
 
