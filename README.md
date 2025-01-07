@@ -4,8 +4,8 @@
 This project focuses on implementing and analyzing various AI search algorithms and reinforcement learning techniques to solve a grid-based pathfinding problem. The problem involves navigating a robot from a start point to a goal point on a grid while avoiding obstacles.
 
 The project is divided into two phases:
-- **Phase 1:** Implementation and performance analysis of classical search algorithms.
-- **Phase 2:** Implementation of Q-Learning for reinforcement learning.
+- **Phase 1**
+- **Phase 2**
 
 ---
 
@@ -17,7 +17,7 @@ Implementing and comparing various search algorithms to find the optimal path fr
 ### Algorithms Implemented
 1. **Greedy Best-First Search (GBFS)**
    - Manhattan and Euclidean heuristics.
-2. **A* Search (A-Star)**
+2. **A-Star Search**
    - Manhattan and Euclidean heuristics.
 3. **Simulated Annealing (SA)**
 4. **Depth-First Search (DFS)**
@@ -42,10 +42,6 @@ Implementing and comparing various search algorithms to find the optimal path fr
 ### Visualization
 - Grid visualization for each algorithm.
 - State transitions are displayed at each step for better understanding.
-
-### Key Takeaways
-- Comparison of search algorithms based on speed, efficiency, and optimality.
-- Strengths and weaknesses of each approach.
 
 ---
 
@@ -74,6 +70,3 @@ Implementing a Q-Learning agent to learn an optimal policy for navigating the gr
    - `>`: Move Right
 3. **State Utilities:** Final utility values for each grid state.
 4. **Agent Path:** Path taken by the agent during training.
-
-
----
